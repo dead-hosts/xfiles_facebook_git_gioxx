@@ -6,8 +6,9 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: repository-slug
+    -   TRAVIS_REPO_SLUG: dead-hosts/xfiles_facebook_git_gioxx
     -   GIT_BRANCH: master
+    -   secure: yx/66O1QsXThb9Qsqohbdf8quMPhaaq8Sopl5OJnHo63jGpVgQt4V2RqSTwqQ4UB7iWfp/keXVAm3/KOCSx4sld/GwSbFfu2Yp1dCVmgCWYFE9IYzGjVi1NXL04v6J+m+Dbhesqoy2d23pKtRaAaIl7k0Ei4QhaewKArJpzuzqXHzNzzSgLPKyKrkuPhjc+094qTj1rn7+1NMwyS+BKez7FPmGg4dNlTdM0ZHbvDFMoqlc/e4Yqq1flfteeTm5q4ohcc8rCe61Hg5SYwSfkPcIAcTp38dBw2iuaWfqxhd08LIlQA1Icg6hSc07uh15uQ366Fhb4ADU6x+MBegurDErOI2TjAdQjBnYIYqrbvVHbZLfwpy4qldZQ6exxpjTc+kYD5tGN91ofAEtWfV6q6/IELi4sOUe+Fx+L0ssFIcbpwFvxU4ikhmQC5V+bw9MCH4FNRrJagmBDR/WT+Mlh3170SS9l5hcEfziPlWARFY+eNof/RuvfjIPr9h6BQxkR44T+YduAVAtiFV/jKdMhn04Bx3SpBrikx5+X2RfSwxPOFoKgtM4pgy+acH6VMu+C10yLHL0RQ0VhUrz4Fk3W79XkuruXxDZWuIOHD/+y5EO3KkuFQbjPePiLf1d3ANA2Wu+YP2j99J2GLY7QoCX4l8zGuzWUwxMt9kYGf36OJI4A=
     matrix:
     - PYTHON_VERSION="3.7.3"
 install:
