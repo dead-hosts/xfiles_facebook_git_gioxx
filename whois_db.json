@@ -3,5 +3,10 @@
         "epoch": 1837987200,
         "expiration_date": "30-mar-2028",
         "state": "future"
+    },
+    "fbcdn.net": {
+        "epoch": 1840924800,
+        "expiration_date": "03-may-2028",
+        "state": "future"
     }
 }
