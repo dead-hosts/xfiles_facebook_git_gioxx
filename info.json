@@ -4,18 +4,18 @@
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2019-09-12T10:22:52.224100",
-    "finish_timestamp": 1568283772.2241,
-    "last_download_datetime": "2019-09-12T10:22:49.842740",
-    "last_download_timestamp": 1568283769.84274,
-    "latest_part_finish_datetime": "2019-09-12T10:22:52.224100",
-    "latest_part_finish_timestamp": 1568283772.2241,
-    "latest_part_start_datetime": "2019-09-12T10:22:50.530734",
-    "latest_part_start_timestamp": 1568283770.530734,
+    "finish_datetime": "2019-09-14T17:18:07.246523",
+    "finish_timestamp": 1568481487.246523,
+    "last_download_datetime": "2019-09-14T17:18:01.385056",
+    "last_download_timestamp": 1568481481.385056,
+    "latest_part_finish_datetime": "2019-09-14T17:18:07.246523",
+    "latest_part_finish_timestamp": 1568481487.246523,
+    "latest_part_start_datetime": "2019-09-14T17:18:02.076421",
+    "latest_part_start_timestamp": 1568481482.076421,
     "name": "xfiles_facebook_git_gioxx",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/facebook.txt",
-    "start_datetime": "2019-09-12T10:22:50.526163",
-    "start_timestamp": 1568283770.526163
+    "start_datetime": "2019-09-14T17:18:02.072181",
+    "start_timestamp": 1568481482.072181
 }
