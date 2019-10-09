@@ -1,23 +1,25 @@
 {
     "/home/travis/build/dead-hosts/xfiles_facebook_git_gioxx/domains.list": {
-        "1567876407": {},
-        "1568049367": {},
-        "1568222190": {
+        "1570658470": {
+            "Home:": "INVALID",
+            "Title:": "INVALID"
+        },
+        "1570658471": {
+            "Homepage:": "INVALID",
+            "Last": "INVALID",
+            "NFA:": "INVALID",
+            "m.facebook.com,touch.facebook.com": "INVALID",
+            "||fbcdn.net^*/flyers/$domain=facebook.com": "INVALID"
+        },
+        "1570658473": {
             "!": "INVALID",
             "/hads-": "INVALID",
             "@@||www.facebook.com/ads/$elemhide": "INVALID",
             "@@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com": "INVALID",
             "Blog:": "INVALID",
             "Expires:": "INVALID",
-            "Home:": "INVALID",
-            "Homepage:": "INVALID",
-            "Last": "INVALID",
-            "NFA:": "INVALID",
-            "Title:": "INVALID",
             "Version:": "INVALID",
-            "m.facebook.com,touch.facebook.com": "INVALID",
-            "||atdmt.com^$third-party": "INVALID",
-            "||fbcdn.net^*/flyers/$domain=facebook.com": "INVALID"
+            "||atdmt.com^$third-party": "INVALID"
         }
     }
 }
