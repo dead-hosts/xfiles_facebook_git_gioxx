@@ -1,16 +1,16 @@
 {
     "atdmt.com": {
-        "epoch": 1597622400,
+        "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "facebook.com": {
-        "epoch": 1837987200,
+        "epoch": 1837987200.0,
         "expiration_date": "30-mar-2028",
         "state": "future"
     },
     "fbcdn.net": {
-        "epoch": 1840924800,
+        "epoch": 1840924800.0,
         "expiration_date": "03-may-2028",
         "state": "future"
     }
