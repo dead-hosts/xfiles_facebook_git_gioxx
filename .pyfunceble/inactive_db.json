@@ -1,3 +1,46 @@
 {
-    "/home/travis/build/dead-hosts/xfiles_facebook_git_gioxx/domains.list": {}
+    "/home/travis/build/dead-hosts/xfiles_facebook_git_gioxx/domains.list": {
+        "apps.facebook.com": {
+            "included_at_epoch": 1600978767.812713,
+            "included_at_iso": "2020-09-24T20:19:27.812713",
+            "last_retested_at_epoch": 1600978767.812713,
+            "last_retested_at_iso": "2020-09-24T20:19:27.812713",
+            "status": "ACTIVE"
+        },
+        "atdmt.com": {
+            "included_at_epoch": 1600978767.891551,
+            "included_at_iso": "2020-09-24T20:19:27.891551",
+            "last_retested_at_epoch": 1600978767.891551,
+            "last_retested_at_iso": "2020-09-24T20:19:27.891551",
+            "status": "ACTIVE"
+        },
+        "facebook.com": {
+            "included_at_epoch": 1600978767.811054,
+            "included_at_iso": "2020-09-24T20:19:27.811054",
+            "last_retested_at_epoch": 1600978767.871573,
+            "last_retested_at_iso": "2020-09-24T20:19:27.871573",
+            "status": "ACTIVE"
+        },
+        "fbcdn.net": {
+            "included_at_epoch": 1600978767.890131,
+            "included_at_iso": "2020-09-24T20:19:27.890131",
+            "last_retested_at_epoch": 1600978767.890131,
+            "last_retested_at_iso": "2020-09-24T20:19:27.890131",
+            "status": "ACTIVE"
+        },
+        "m.facebook.com": {
+            "included_at_epoch": 1600978767.873881,
+            "included_at_iso": "2020-09-24T20:19:27.873881",
+            "last_retested_at_epoch": 1600978767.887705,
+            "last_retested_at_iso": "2020-09-24T20:19:27.887705",
+            "status": "ACTIVE"
+        },
+        "touch.facebook.com": {
+            "included_at_epoch": 1600978767.872733,
+            "included_at_iso": "2020-09-24T20:19:27.872733",
+            "last_retested_at_epoch": 1600978767.888836,
+            "last_retested_at_iso": "2020-09-24T20:19:27.888836",
+            "status": "ACTIVE"
+        }
+    }
 }
