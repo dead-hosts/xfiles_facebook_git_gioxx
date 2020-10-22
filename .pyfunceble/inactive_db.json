@@ -1,45 +1,45 @@
 {
     "/home/travis/build/dead-hosts/xfiles_facebook_git_gioxx/domains.list": {
         "apps.facebook.com": {
-            "included_at_epoch": 1600978767.812713,
-            "included_at_iso": "2020-09-24T20:19:27.812713",
-            "last_retested_at_epoch": 1603226601.243575,
-            "last_retested_at_iso": "2020-10-20T20:43:21.243575",
+            "included_at_epoch": 1603403275.795523,
+            "included_at_iso": "2020-10-22T21:47:55.795523",
+            "last_retested_at_epoch": 1603403275.795523,
+            "last_retested_at_iso": "2020-10-22T21:47:55.795523",
             "status": "ACTIVE"
         },
         "atdmt.com": {
-            "included_at_epoch": 1600978767.891551,
-            "included_at_iso": "2020-09-24T20:19:27.891551",
-            "last_retested_at_epoch": 1603226601.31773,
-            "last_retested_at_iso": "2020-10-20T20:43:21.317730",
+            "included_at_epoch": 1603403275.869414,
+            "included_at_iso": "2020-10-22T21:47:55.869414",
+            "last_retested_at_epoch": 1603403275.869414,
+            "last_retested_at_iso": "2020-10-22T21:47:55.869414",
             "status": "ACTIVE"
         },
         "facebook.com": {
-            "included_at_epoch": 1600978767.811054,
-            "included_at_iso": "2020-09-24T20:19:27.811054",
-            "last_retested_at_epoch": 1603226601.300206,
-            "last_retested_at_iso": "2020-10-20T20:43:21.300206",
+            "included_at_epoch": 1603403275.793823,
+            "included_at_iso": "2020-10-22T21:47:55.793823",
+            "last_retested_at_epoch": 1603403275.850299,
+            "last_retested_at_iso": "2020-10-22T21:47:55.850299",
             "status": "ACTIVE"
         },
         "fbcdn.net": {
-            "included_at_epoch": 1600978767.890131,
-            "included_at_iso": "2020-09-24T20:19:27.890131",
-            "last_retested_at_epoch": 1603226601.316415,
-            "last_retested_at_iso": "2020-10-20T20:43:21.316415",
+            "included_at_epoch": 1603403275.868189,
+            "included_at_iso": "2020-10-22T21:47:55.868189",
+            "last_retested_at_epoch": 1603403275.868189,
+            "last_retested_at_iso": "2020-10-22T21:47:55.868189",
             "status": "ACTIVE"
         },
         "m.facebook.com": {
-            "included_at_epoch": 1600978767.873881,
-            "included_at_iso": "2020-09-24T20:19:27.873881",
-            "last_retested_at_epoch": 1603226601.315402,
-            "last_retested_at_iso": "2020-10-20T20:43:21.315402",
+            "included_at_epoch": 1603403275.851559,
+            "included_at_iso": "2020-10-22T21:47:55.851559",
+            "last_retested_at_epoch": 1603403275.865656,
+            "last_retested_at_iso": "2020-10-22T21:47:55.865656",
             "status": "ACTIVE"
         },
         "touch.facebook.com": {
-            "included_at_epoch": 1600978767.872733,
-            "included_at_iso": "2020-09-24T20:19:27.872733",
-            "last_retested_at_epoch": 1603226601.314186,
-            "last_retested_at_iso": "2020-10-20T20:43:21.314186",
+            "included_at_epoch": 1603403275.852654,
+            "included_at_iso": "2020-10-22T21:47:55.852654",
+            "last_retested_at_epoch": 1603403275.867097,
+            "last_retested_at_iso": "2020-10-22T21:47:55.867097",
             "status": "ACTIVE"
         }
     }
