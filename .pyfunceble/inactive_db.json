@@ -3,43 +3,43 @@
         "apps.facebook.com": {
             "included_at_epoch": 1605832805.169021,
             "included_at_iso": "2020-11-20T00:40:05.169021",
-            "last_retested_at_epoch": 1607739398.625821,
-            "last_retested_at_iso": "2020-12-12T02:16:38.625821",
+            "last_retested_at_epoch": 1607982963.599139,
+            "last_retested_at_iso": "2020-12-14T21:56:03.599139",
             "status": "ACTIVE"
         },
         "atdmt.com": {
             "included_at_epoch": 1605832805.250824,
             "included_at_iso": "2020-11-20T00:40:05.250824",
-            "last_retested_at_epoch": 1607739398.696909,
-            "last_retested_at_iso": "2020-12-12T02:16:38.696909",
+            "last_retested_at_epoch": 1607982963.683834,
+            "last_retested_at_iso": "2020-12-14T21:56:03.683834",
             "status": "ACTIVE"
         },
         "facebook.com": {
             "included_at_epoch": 1605832805.167046,
             "included_at_iso": "2020-11-20T00:40:05.167046",
-            "last_retested_at_epoch": 1607739398.678949,
-            "last_retested_at_iso": "2020-12-12T02:16:38.678949",
+            "last_retested_at_epoch": 1607982963.661095,
+            "last_retested_at_iso": "2020-12-14T21:56:03.661095",
             "status": "ACTIVE"
         },
         "fbcdn.net": {
             "included_at_epoch": 1605832805.24766,
             "included_at_iso": "2020-11-20T00:40:05.247660",
-            "last_retested_at_epoch": 1607739398.695708,
-            "last_retested_at_iso": "2020-12-12T02:16:38.695708",
+            "last_retested_at_epoch": 1607982963.682493,
+            "last_retested_at_iso": "2020-12-14T21:56:03.682493",
             "status": "ACTIVE"
         },
         "m.facebook.com": {
             "included_at_epoch": 1605832805.225923,
             "included_at_iso": "2020-11-20T00:40:05.225923",
-            "last_retested_at_epoch": 1607739398.693468,
-            "last_retested_at_iso": "2020-12-12T02:16:38.693468",
+            "last_retested_at_epoch": 1607982963.680886,
+            "last_retested_at_iso": "2020-12-14T21:56:03.680886",
             "status": "ACTIVE"
         },
         "touch.facebook.com": {
             "included_at_epoch": 1605832805.227077,
             "included_at_iso": "2020-11-20T00:40:05.227077",
-            "last_retested_at_epoch": 1607739398.694648,
-            "last_retested_at_iso": "2020-12-12T02:16:38.694648",
+            "last_retested_at_epoch": 1607982963.679606,
+            "last_retested_at_iso": "2020-12-14T21:56:03.679606",
             "status": "ACTIVE"
         }
     }
