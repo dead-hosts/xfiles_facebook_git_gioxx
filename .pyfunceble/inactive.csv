@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at
-lista:,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:41:45.604426
-@@||www.facebook.com/ads/$elemhide,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:41:55.558549
-"@@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com",AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:41:58.864334
-/hads-,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:42:02.156007
-"m.facebook.com,touch.facebook.com",AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:44:45.408020
-||atdmt.com^$third-party,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:45:08.351852
-||fbcdn.net^*/flyers/$domain=facebook.com,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-13 20:45:11.705104
 [adblock,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-14 20:47:15.922470
 plus,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-14 20:47:22.920409
 2.0],AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-14 20:47:29.551466
@@ -33,3 +26,10 @@ home:,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfile
 blog:,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-14 20:50:00.367475
 https://gioxx.org/tag/abpxfiles/,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-14 20:50:08.986732
 hosting,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-14 20:50:15.998683
+lista:,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:32:56.181538
+@@||www.facebook.com/ads/$elemhide,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:33:02.792348
+"@@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com",AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:33:09.372131
+/hads-,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:33:15.934490
+"m.facebook.com,touch.facebook.com",AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:33:22.518928
+||atdmt.com^$third-party,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:33:29.258780
+||fbcdn.net^*/flyers/$domain=facebook.com,AVAILABILITY,origin.list,/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list,2021-01-15 01:33:35.891403
