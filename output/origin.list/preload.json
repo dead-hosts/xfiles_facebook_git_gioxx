@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "76354044706d88bbb3c017f821e8b6bbcf7821c4859929a4f6d5da7c",
+    "line_number": 76,
+    "output_dir": "/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/output/origin.list",
+    "previous_hash": "76354044706d88bbb3c017f821e8b6bbcf7821c4859929a4f6d5da7c",
+    "rel_source": "origin.list",
+    "session_id": "24efffb33049bdb11e6575e0",
+    "source": "/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list",
+    "subject": "/home/runner/work/xfiles_facebook_git_gioxx/xfiles_facebook_git_gioxx/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
