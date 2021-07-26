@@ -4735,6 +4735,9 @@
         "dweb.link",
         "mypep.link"
     ],
+    "live": [
+        "hlx.live"
+    ],
     "lk": [
         "ac.lk",
         "assn.lk",
@@ -4822,6 +4825,7 @@
         "router.management"
     ],
     "marketing": [
+        "from.marketing",
         "with.marketing"
     ],
     "mc": [
@@ -6856,7 +6860,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7051,6 +7057,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
@@ -7656,7 +7664,6 @@
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
-        "from.marketing",
         "gov.sh",
         "hashbang.sh",
         "mil.sh",
