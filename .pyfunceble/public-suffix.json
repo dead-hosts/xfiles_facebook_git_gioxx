@@ -1686,6 +1686,7 @@
         "blogspot.com.es",
         "com.es",
         "edu.es",
+        "enterprisecloud.nu",
         "gob.es",
         "myspreadshop.es",
         "nom.es",
@@ -5580,6 +5581,7 @@
         "name.na",
         "or.na",
         "org.na",
+        "pro.na",
         "school.na",
         "tv.na",
         "us.na",
@@ -6780,8 +6782,7 @@
         "gov.nr",
         "info.nr",
         "net.nr",
-        "org.nr",
-        "pro.na"
+        "org.nr"
     ],
     "nu": [
         "enterprisecloud.nu",
