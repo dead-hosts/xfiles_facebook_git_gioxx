@@ -30,3 +30,4 @@ lista:,AVAILABILITY,origin.list,2022-10-30 16:05:14.061271
 "m.facebook.com,touch.facebook.com",AVAILABILITY,origin.list,2022-10-30 16:05:15.300809
 ||atdmt.com^$third-party,AVAILABILITY,origin.list,2022-10-30 16:05:15.691653
 ||fbcdn.net^*/flyers/$domain=facebook.com,AVAILABILITY,origin.list,2022-10-30 16:05:15.785276
+fbcdn.net^,AVAILABILITY,origin.list,2022-10-30 17:24:09.149543
